@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace NCalc.Domain
+namespace CoreCLR.NCalc.Domain
 {
 	public class ValueExpression : LogicalExpression
 	{

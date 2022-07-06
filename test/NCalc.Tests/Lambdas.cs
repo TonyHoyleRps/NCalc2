@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace NCalc.Tests
+namespace CoreCLR.NCalc.Tests
 {
     public class Lambdas
     {

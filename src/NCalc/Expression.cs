@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using NCalc.Domain;
+using CoreCLR.NCalc.Domain;
 using Antlr.Runtime;
 using System.Diagnostics;
 using System.Threading;
 using System.Collections.Concurrent;
 
-namespace NCalc
+namespace CoreCLR.NCalc
 {
     public class Expression
     {

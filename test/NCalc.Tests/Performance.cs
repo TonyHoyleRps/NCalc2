@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using Xunit;
 
-namespace NCalc.Tests
+namespace CoreCLR.NCalc.Tests
 {
     public class Performance
     {

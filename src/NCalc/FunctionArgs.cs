@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NCalc
+namespace CoreCLR.NCalc
 {
     public class FunctionArgs : EventArgs
     {

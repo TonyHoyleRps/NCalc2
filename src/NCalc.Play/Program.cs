@@ -1,6 +1,6 @@
 using System;
 
-namespace NCalc.Play
+namespace CoreCLR.NCalc.Play
 {
 	/// <summary>
 	/// Summary description for Program.

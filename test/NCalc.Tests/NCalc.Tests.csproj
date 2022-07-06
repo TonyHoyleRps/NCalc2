@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\NCalc\NCalc.csproj" />
+    <ProjectReference Include="..\..\src\NCalc\CoreCLR.NCalc.csproj" />
   </ItemGroup>
 
   <ItemGroup>

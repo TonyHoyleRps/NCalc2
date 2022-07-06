@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Security.Cryptography;
 
-namespace NCalc
+namespace CoreCLR.NCalc
 {
     public class Numbers
     {

@@ -2,7 +2,7 @@ using System;
 using Antlr.Runtime.Tree;
 using System.Text;
 
-namespace NCalc.Domain
+namespace CoreCLR.NCalc.Domain
 {
     public abstract class LogicalExpression
     {

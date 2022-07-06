@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace NCalc.Domain
+namespace CoreCLR.NCalc.Domain
 {
     public class EvaluationVisitor : LogicalExpressionVisitor
     {

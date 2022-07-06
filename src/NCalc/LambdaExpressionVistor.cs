@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
-using NCalc.Domain;
+using CoreCLR.NCalc.Domain;
 using L = System.Linq.Expressions;
 using System.Collections.Generic;
 
-namespace NCalc
+namespace CoreCLR.NCalc
 {
     internal class LambdaExpressionVistor : LogicalExpressionVisitor
     {
